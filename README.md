@@ -4,9 +4,7 @@ A client-side web tool for creating, editing, comparing, and animating hierarchi
 
 ## What it does
 
-Treebox lets you quickly describe tree structures using a simple text DSL, instantly see them as an interactive visual explorer, compare versions with diff, build step-by-step timelines, and create animated transitions between states.
-
-Works entirely in the browser — no backend, no account, no installation.
+Treebox lets you quickly describe tree structures using a simple text DSL, instantly see them as an interactive visual explorer, compare versions with diff, build step-by-step timelines, and create animated transitions between states. Works entirely in the browser — no backend, no account, no installation.
 
 ## Modes
 
