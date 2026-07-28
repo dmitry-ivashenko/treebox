@@ -1,0 +1,40 @@
+{
+  "name": "treebox",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@codemirror/commands": "^6.8.1",
+    "@codemirror/language": "^6.11.0",
+    "@codemirror/state": "^6.5.2",
+    "@codemirror/view": "^6.36.8",
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/jetbrains-mono": "^5.2.8",
+    "@lezer/highlight": "^1.2.1",
+    "html-to-image": "^1.11.13",
+    "lz-string": "^1.5.0",
+    "modern-gif": "^2.1.0",
+    "nanoid": "^5.1.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zustand": "^5.0.5"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@types/lz-string": "^1.5.0",
+    "@types/react": "^18.2.19",
+    "@types/react-dom": "^18.2.19",
+    "happy-dom": "^20.9.0",
+    "typescript": "~5.8.3",
+    "vite": "^6.4.1",
+    "vitest": "^4.1.5"
+  }
+}
